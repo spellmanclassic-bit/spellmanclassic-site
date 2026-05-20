@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  background: #f7f3ee;
+  font-family: Georgia, serif;
+  color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+.logo {
+  max-width: 500px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+h1 {
+  letter-spacing: 8px;
+  font-size: 42px;
+}
+
+.tagline {
+  margin-top: 20px;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.coming-soon {
+  margin-top: 40px;
+  color: #c9ab6d;
+  letter-spacing: 6px;
+  font-size: 20px;
+}
